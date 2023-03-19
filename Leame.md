@@ -5,3 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Sanchez-angel-gustavo/Proyecto_Northwind.git
 git push -u origin main
+
+En esta parte del proyecto solo vamos a conectar la base de datos 
+y mostrar un registro.
+
